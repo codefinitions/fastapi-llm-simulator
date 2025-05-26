@@ -1,2 +1,2 @@
-# genai_fastapi
+# fastapi-llm-simulator
 GenAI simulation with fastapi 
